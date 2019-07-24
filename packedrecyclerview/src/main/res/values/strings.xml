@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PackedRecyclerView</string>
+
+    <string name="footer_loading">加载中.....</string>
+    <string name="footer_load_nomore">没有更多数据了</string>
+    <string name="footer_load_complete">加载完成</string>
+</resources>

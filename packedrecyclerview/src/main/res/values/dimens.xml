@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="foot_hint_size">7sp</dimen>
+    <dimen name="foot_pb_size">25dp</dimen>
+</resources>
